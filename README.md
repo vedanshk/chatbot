@@ -20,3 +20,7 @@ To run this project locally, follow these steps:
    ```sh
    git clone https://github.com/vedanshk/chatbot.git
 
+## Project Details
+
+This project utilizes the `react-chatbot-kit` package to power the chatbot interface. `react-chatbot-kit` provides a robust and customizable framework for building chatbots in React, enhancing user interactions and facilitating a seamless experience.
+
